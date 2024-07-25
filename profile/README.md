@@ -19,6 +19,6 @@
 
 ###
 
-<p align="left">We are a multi-venture software company that specializes in SaaS. We will be sharing our own open-source on GitHub to contribute to the momement.</p>
+<p align="left">We are a multi-venture software company specialising in SaaS. We will share our own open-source on GitHub to contribute to the open-source community here.</p>
 
 ###
