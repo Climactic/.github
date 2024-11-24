@@ -1,24 +1,10 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/67541847?s=200&v=4"  />
+
+![Climactic](https://github.com/user-attachments/assets/003ed6fa-3978-4f29-8031-f5faa03c2d68)
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](http://go.climactic.co/linkedin)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fclimactic.co&up_message=climactic.co&down_message=climactic.co&style=for-the-badge)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](http://go.climactic.co/twitter)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Climactic?style=for-the-badge)
+
 </div>
-
-###
-
-<div align="center">
-  <a href="http://go.climactic.co/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="http://go.climactic.co/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Climactic®</h1>
-
-###
-
-<p align="left">We are a multi-venture software company specialising in SaaS. We will share our own open-source on GitHub to contribute to the open-source community here.</p>
-
-###
